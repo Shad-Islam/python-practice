@@ -21,3 +21,7 @@
 # text = "Hello everyone , how are you?"
 # if "you" in text:
 #     print("You is present in the text")
+
+# Check if NOT
+# txt = "Hello everyone , how are you?"
+# print("Your" not in txt)
