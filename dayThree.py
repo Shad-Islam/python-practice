@@ -28,7 +28,7 @@
 # print(a + b)
 
 # f string
-age = 24
-txt = f"I am {age}"
-print(txt)
+# age = 24
+# txt = f"I am {age}"
+# print(txt)
 
